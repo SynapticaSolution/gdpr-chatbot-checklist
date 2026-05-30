@@ -210,13 +210,14 @@ WHERE created_at < NOW() - INTERVAL '12 months';
 
 ## Related Resources
 
-- [GDPR guide for chatbot developers](https://synaptica-solution.com/guida-chatbot-ai-privacy-gdpr/) — In-depth privacy guide (Italian)
-- [What is Human-in-the-Loop?](https://synaptica-solution.com/knowledge/cos-e-human-in-the-loop/) — Why human oversight matters for GDPR
-- [AI Act compliance checklist](https://github.com/SynapticaSolution/ai-act-compliance-checklist) — Companion checklist for EU AI Act
-- [SideMindBot](https://synaptica-solution.com/sidemind/) — GDPR-compliant chatbot with pseudonymization of 12 PII types
-- [AI Act guide for Italian companies](https://synaptica-solution.com/knowledge/guida-ai-act-aziende/) — Practical AI Act implementation
-- [Best AI chatbots for Italian companies 2026](https://synaptica-solution.com/knowledge/migliori-chatbot-ai-aziende/) — Comparison with compliance focus
-- [Synaptica DPA template](https://synaptica-solution.com/dpa/) — Our Data Processing Agreement
+Maintained by **[Synaptica Solution](https://synaptica-solution.com)**, Italian software studio for SME automation.
+
+| If you need… | See… |
+|---|---|
+| GDPR-compliant chatbot platform (Italian market) | [SideMindBot](https://synaptica-solution.com/sidemind/) |
+| Guide: chatbot AI e privacy GDPR | [Guida GDPR Chatbot](https://synaptica-solution.com/guida-chatbot-ai-privacy-gdpr/) |
+| AI Act Art. 50 compliance checklist | [AI Act checklist](https://github.com/SynapticaSolution/ai-act-compliance-checklist) |
+| All open source tools | [Open Source Hub](https://synaptica-solution.com/open-source/) |
 
 ---
 
